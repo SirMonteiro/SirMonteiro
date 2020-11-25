@@ -1,6 +1,14 @@
-### Hi there 👋
-
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  I'm SirMonteiro!
+## 👨‍💻 Some curiosities about me
+ - 🤏Favorite programming languages: JavaScript and python
+ - ⚙️I'm currently working on my private projects😅
+ - 🚩Now I'm trying to learn some new technologies
+ ## ⚡ Languages and technologies
+ ![](https://img.shields.io/static/v1?label&style=flat-square&logo=ubuntu&message=Ubuntu&color=E95420&logoColor=white) ![](https://img.shields.io/static/v1?label&style=flat-square&logo=xfce&message=Xfce&color=2284F2&logoColor=white) ![](https://img.shields.io/static/v1?label&style=flat-square&logo=git&message=Git&color=F05032&logoColor=white) ![](https://img.shields.io/static/v1?label&style=flat-square&logo=github&message=Github&color=181717) ![](https://img.shields.io/static/v1?label&style=flat-square&logo=visual-studio-code&message=VSCode&color=007ACC&logoColor=white) ![](https://img.shields.io/static/v1?label&style=flat-square&logo=javascript&message=JavaScript&color=F7DF1E&logoColor=black) ![](https://img.shields.io/static/v1?label&style=flat-square&logo=node.js&message=Nodejs&color=339933&logoColor=white) ![](https://img.shields.io/static/v1?label&style=flat-square&logo=python&message=Python&color=3776AB&logoColor=white) ![](https://img.shields.io/static/v1?label&style=flat-square&logo=c&message=C&color=A8B9CC&logoColor=white)  ![](https://img.shields.io/static/v1?label&style=flat-square&logo=html5&message=HTML5&color=E34F26&logoColor=white) ![](https://img.shields.io/static/v1?label&style=flat-square&logo=css3&message=CSS3&color=1572B6)  ![](https://img.shields.io/static/v1?label&style=flat-square&logo=mongodb&message=MongoDB&color=47A248&logoColor=white) ![](https://img.shields.io/static/v1?label&style=flat-square&logo=docker&message=Docker&color=2496ED&logoColor=white) ![](https://img.shields.io/static/v1?label&style=flat-square&logo=heroku&message=Heroku&color=430098&logoColor=white)    
+## 📊 Github stats
+![My github stats](https://github-readme-stats.vercel.app/api?username=SirMonteiro&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SirMonteiro&layout=compact&theme=dark)
 <!--
+### Hi there 👋
 **SirMonteiro/SirMonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
